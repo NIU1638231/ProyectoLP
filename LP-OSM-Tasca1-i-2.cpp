@@ -10,7 +10,7 @@ int main()
 	XmlElement viejoRoble = {
 		//id_element = 
 			"node",
-
+			
 		// atributs = 
 		{
 			std::make_pair("id", "357101444"),
